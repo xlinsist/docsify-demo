@@ -4,8 +4,8 @@ This is an English Documentation
 Read Online
 ---
 
--  **[Gitee Online](https://xlinsist.gitee.io/docsify-demo)** | [Gitee address](https://gitee.com/xlinsist/docsify-demo)
--  **[GitHub Online](https://xlinsist.github.io/docsify-demo)** | [GitHub address](https://github.com/xlinsist/docsify-demo)
+-  **[Gitee Online](https://mochazi.gitee.io/docsify-demo)** | [Gitee address](https://gitee.com/mochazi/docsify-demo)
+-  **[GitHub Online](https://mochazi.github.io/docsify-demo)** | [GitHub address](https://github.com/mochazi/docsify-demo)
 
 ## Write a warning
 > [!WARNING]

@@ -3,8 +3,8 @@
 在线阅读
 ---
 
--  **[国内优先 Gitee 在线阅读](https://xlinsist.gitee.io/docsify-demo)** | [Gitee 仓库地址](https://gitee.com/xlinsist/docsify-demo)
--  **[国外优先 GitHub 在线阅读](https://xlinsist.github.io/docsify-demo)** | [GitHub 仓库地址](https://github.com/xlinsist/docsify-demo)
+-  **[国内优先 Gitee 在线阅读](https://mochazi.gitee.io/docsify-demo)** | [Gitee 仓库地址](https://gitee.com/mochazi/docsify-demo)
+-  **[国外优先 GitHub 在线阅读](https://mochazi.github.io/docsify-demo)** | [GitHub 仓库地址](https://github.com/mochazi/docsify-demo)
 
 ## 编写警告
 > [!WARNING]

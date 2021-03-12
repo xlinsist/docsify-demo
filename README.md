@@ -3,5 +3,5 @@
 > **本项目为大家提供一个较完整的docsify框架结构**
 >> **该项目仅限学习交流，请勿用于商业用途，如有侵权，请联系删除。**
 
--  **[国内优先 Gitee 在线阅读](https://xlinsist.gitee.io/docsify-demo)** | [Gitee 仓库地址](https://gitee.com/xlinsist/docsify-demo)
--  **[国外优先 GitHub 在线阅读](https://xlinsist.github.io/docsify-demo)** | [GitHub 仓库地址](https://github.com/xlinsist/docsify-demo)
+-  **[国内优先 Gitee 在线阅读](https://mochazi.gitee.io/docsify-demo)** | [Gitee 仓库地址](https://gitee.com/mochazi/docsify-demo)
+-  **[国外优先 GitHub 在线阅读](https://mochazi.github.io/docsify-demo)** | [GitHub 仓库地址](https://github.com/mochazi/docsify-demo)
